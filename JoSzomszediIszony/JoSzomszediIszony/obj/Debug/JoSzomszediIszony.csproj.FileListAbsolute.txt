@@ -1,0 +1,6 @@
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\bin\Debug\JoSzomszediIszony.exe.config
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\bin\Debug\JoSzomszediIszony.exe
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\bin\Debug\JoSzomszediIszony.pdb
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\obj\Debug\JoSzomszediIszony.csprojResolveAssemblyReference.cache
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\obj\Debug\JoSzomszediIszony.exe
+C:\Users\balzska\Documents\Visual Studio 2013\Projects\prog2beadando\JoSzomszediIszony\JoSzomszediIszony\obj\Debug\JoSzomszediIszony.pdb
